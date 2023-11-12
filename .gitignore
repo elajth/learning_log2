@@ -2,3 +2,9 @@ ll_env/
 __pychache__/
 learning_logs/__pycache__/
 *.sqlite3
+lib/
+lib64
+bin/
+pyvenv.cfg
+share/
+staticfiles/
